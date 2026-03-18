@@ -1,11 +1,1 @@
-1.) Install 'msmtp'.
-https://superuser.com/questions/351841/how-do-i-set-up-the-unix-mail-command
 
-sudo apt install msmtp
-
-- setup the .msmtprc and .netrc files in your home directory.
-- Ensure only your user can read/write the config file - chmod 600 ~/.msmtprc
-
-2.) Create the relevant folders.
-- These include archives, cron_debug_logs, email_logs and log_folder.
-- Give all scripts executable permissions: chmod +x script_name.sh
