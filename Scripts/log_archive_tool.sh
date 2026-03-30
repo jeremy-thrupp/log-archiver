@@ -2,7 +2,7 @@
 log_directory=$1
 timestamp=$(date +"%Y-%m-%d_%H-%M-%S")
 file_name="logs_archive_$timestamp"
-backup_dir="/home/jeremy/Desktop/Side-Projects/Log-Archive-Tool/archives"
+backup_dir="/home/username/Desktop/Side-Projects/Log-Archive-Tool/archives"
 
 echo "The Log Directory you have supplied is: $log_directory"
 
