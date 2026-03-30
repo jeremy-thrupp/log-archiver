@@ -1,4 +1,4 @@
-Log Archive Tool
+# Log Archive Tool
 
 This is a solution for the roadmap.sh Log Archive Tool project: 
 https://roadmap.sh/projects/log-archive-tool
