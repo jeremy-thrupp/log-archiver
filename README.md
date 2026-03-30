@@ -1,5 +1,8 @@
 Log Archive Tool
-This is a solution for the roadmap.sh Log Archive Tool project. This tool automates the process of archiving logs and sending notifications.
+
+This is a solution for the roadmap.sh Log Archive Tool project. 
+
+This tool automates the process of archiving logs and sending notifications.
 
 Setup Steps
 1. Install and Configure 'msmtp'
