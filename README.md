@@ -1,6 +1,7 @@
 Log Archive Tool
 
-This is a solution for the roadmap.sh Log Archive Tool project. 
+This is a solution for the roadmap.sh Log Archive Tool project: 
+https://roadmap.sh/projects/log-archive-tool
 
 This tool automates the process of archiving logs and sending notifications.
 
