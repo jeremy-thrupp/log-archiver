@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cron_debug_log_folder="/home/jeremy/Desktop/Side-Projects/Log-Archive-Tool/cron_debug_logs"
+cron_debug_log_folder="/home/username/Desktop/Side-Projects/Log-Archive-Tool/cron_debug_logs"
 log_file_prefix=$1.log
-to_email_address=fakeemailaddress@gmail.com
+to_email_address=fake-email-address@gmail.com
 
 if [ -d $cron_debug_log_folder ]; then
     echo "Cron debug log folder exists"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASE_DIRECTORY="/home/jeremy/Desktop/Side-Projects/Log-Archive-Tool"
+BASE_DIRECTORY="/home/username/Desktop/Side-Projects/Log-Archive-Tool"
 TIMESTAMP=$(date +%Y-%m-%d_%H-%M)
 
 $BASE_DIRECTORY/log_archive_tool.sh $BASE_DIRECTORY/log_folder \
